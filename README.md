@@ -6,7 +6,6 @@
     <meta name="description" content="Halaman Profil Pribadi">
     <meta name="keywords" content="profil, biodata, about me">
     <meta name="author" content="Nama Anda">
-    <title>Profil Saya - Biodata Lengkap</title>
 </head>
 <body>
     <!-- HEADER -->
